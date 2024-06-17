@@ -1,5 +1,6 @@
 # Vanilla Object Detection
 # Author : Easton Kang
+# Email : easton.kang@kakao.com & easton@gwnu.ac.kr
 # Date : 2024-06-17
 
 # Desc : Object Detection of a car in an image after learning about cars with cifar10
