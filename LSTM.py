@@ -2,6 +2,7 @@
 # Author : Easton Kang
 # Date : 2024-06-17
 
+# Desc : A simple LSTM model that trains on the word 'hihell' and then infers ihell when typing 'i'
 # Reference : https://limitsinx.tistory.com/62              # RNN & LSTM
 # Reference : https://dsbook.tistory.com/59                 # Fully connected layer
 # Reference : https://blog.naver.com/chunjein/221589624838  # TimeDistributed 
@@ -15,7 +16,7 @@ idx2char = ['h', 'i', 'e', 'l', 'o']
 # Teach hello: hihell -> ihello
 
 # x_data = [[0, 1, 0, 2, 3, 3]]  # hihell
-y_data = [[1, 0, 2, 3,3, 4]] # ihello
+y_data = [[1, 0, 2, 3,3, 4]] # ihell
 
 noc = 5             # Number Of Class 
 input_dim = 5       # one-hot size, same as hidden_size to directly predict one-hot
