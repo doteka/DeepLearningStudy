@@ -1,4 +1,4 @@
-# LSTM Study
+# Vanilla Object Detection
 # Author : Easton Kang
 # Date : 2024-06-17
 
