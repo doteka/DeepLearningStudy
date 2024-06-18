@@ -1,7 +1,6 @@
 # LSTM Study
 # Author : Easton Kang
 # Email : easton.kang@kakao.com & easton@gwnu.ac.kr
-
 # Date : 2024-06-17
 
 # Desc : A simple LSTM model that trains on the word 'hihell' and then infers ihell when typing 'i'
